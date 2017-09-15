@@ -239,8 +239,6 @@ https://github.com/EasyKotlin/ktor_demo
 
  [http://ktor.io](http://ktor.io/)
  
- > 正式上架：《Kotlin极简教程》 Official on shelves: Kotlin Programming minimalist tutorial
-
-京东JD：https://item.jd.com/12181725.html
-
-天猫Tmall：https://detail.tmall.com/item.htm?id=558540170670
+> 正式上架：《Kotlin极简教程》 Official on shelves: Kotlin Programming minimalist tutorial
+> 京东JD：https://item.jd.com/12181725.html
+> 天猫Tmall：https://detail.tmall.com/item.htm?id=558540170670
